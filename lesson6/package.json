@@ -1,0 +1,29 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",touch
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0n1c/udemy_MEAN_Hotel.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Nong Suon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0n1c/udemy_MEAN_Hotel/issues"
+  },
+  "homepage": "https://github.com/n0n1c/udemy_MEAN_Hotel#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
