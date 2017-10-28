@@ -1,6 +1,10 @@
 db.tech.insert(
   [
     {
+      name : "MongoDB",
+      role : "Database"
+    },
+    {
       name : "Express",
       role : "Web application server"
     },
