@@ -1,11 +1,11 @@
 [
   {
-    "PostID" : 1,
+    "_id" : ObjectId("53b01758b7400d51faae284"),
     "Title" : "My first post",
     "Content" : "Some content",
     "Comments" : [
       {
-        "CommentID" : 1,
+        "_id" : 1,
         "Content" : "Commenting on your first post"
       }
     ],
